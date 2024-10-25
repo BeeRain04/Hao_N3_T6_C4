@@ -1,10 +1,16 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dang Hoang Nhat Hao
+Hi 👨‍💻 Hello World![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dang Hoang Nhat Hao
 ===========================================================================================================================================
 
-I have become an excellent developer
+* Subtitle:
+* Web developer
+* App developer
 -------------
-
-I have been learning to code for 2 years. My purpose is will become a developer excellent
+## 🌱 Triết lý của tôi trong công việc:
+I have been learnt to code for 2 years. My purpose is will become a developer excellent
+Là một dev, tôi luôn tìm kiếm:
+- 🔄 **Sự tối ưu hóa:** Viết mã ngắn gọn, dễ bảo trì nhưng hiệu quả.
+- 📈 **Hiệu suất:** Đảm bảo ứng dụng chạy nhanh, mượt mà và thân thiện.
+- 🤝 **Hợp tác:** Tôi tin rằng làm việc nhóm luôn là chìa khóa thành công, vì vậy tôi luôn cố gắng kết nối và học hỏi từ đồng đội.
 
 * 🌍  I'm based in I'm VIETNAMESE
 * ✉️  You can contact me at [danghoainhathao@gmail.com](mailto:danghoainhathao@gmail.com)
