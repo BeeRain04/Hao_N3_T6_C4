@@ -1,4 +1,4 @@
-Hi 👨‍💻 Hello World![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My full name is Dang Hoang Nhat Hao
+Hi 👨‍💻 Hello World![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My full name is **Dang Hoang Nhat Hao**
 
 Chào mừng bạn đến với **GitHub** của tôi! Tôi là một **DEVELOPER** với niềm đam mê mãnh liệt trong việc xây dựng các giải pháp công nghệ sáng tạo và hiệu quả. Từ việc phát triển ứng dụng web đến tối ưu hóa hệ thống, tôi luôn tìm kiếm các cơ hội để tạo ra giá trị thông qua từng dòng code.
 
