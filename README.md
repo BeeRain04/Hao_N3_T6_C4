@@ -8,7 +8,7 @@ I have been learning to code for 2 years. My purpose is will become a developer 
 
 * 🌍  I'm based in I'm VIETNAMESE
 * ✉️  You can contact me at [danghoainhathao@gmail.com](mailto:danghoainhathao@gmail.com)
-* 🚀  I'm currently working on [I coding very much project. This is small project i have been done](http://beerain04.github.io/heart/)
+* 🚀  I'm currently working on [I coding very much project. This is small project i have been done]
 * 🧠  I'm learning A new framwork ReactJS, NodeJS,...
 * 🤝  I'm open to collaborating on Github, FB,....
 
