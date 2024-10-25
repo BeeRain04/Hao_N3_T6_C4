@@ -1,19 +1,32 @@
 Hi 👨‍💻 Hello World![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My full name is Dang Hoang Nhat Hao
+
 Chào mừng bạn đến với **GitHub** của tôi! Tôi là một **DEVELOPER** với niềm đam mê mãnh liệt trong việc xây dựng các giải pháp công nghệ sáng tạo và hiệu quả. Từ việc phát triển ứng dụng web đến tối ưu hóa hệ thống, tôi luôn tìm kiếm các cơ hội để tạo ra giá trị thông qua từng dòng code.
+
 ===========================================================================================================================================
 
 **Subtitle:**
 * Web developer
 * App developer
 -------------
-## 🌱 Hành trình và triết lý của tôi trong công việc:
-I have been learnt to code for 2 years. My purpose is will become a developer excellent
-Là một dev, tôi luôn tìm kiếm:
-- **Sáng tạo:** Tôi luôn cố gắng tìm ra những cách tiếp cận mới mẻ cho các vấn đề cũ, nhằm đảm bảo sản phẩm không chỉ hoạt động mà còn mang lại trải nghiệm tốt nhất cho người dùng.
-- 🔄 **Sự tối ưu hóa:** Viết mã ngắn gọn, dễ bảo trì nhưng hiệu quả.
-- 📈 **Hiệu suất:** Đảm bảo ứng dụng chạy nhanh, mượt mà và thân thiện.
-- 🤝 **Hợp tác:** Tôi tin rằng làm việc nhóm luôn là chìa khóa thành công, vì vậy tôi luôn cố gắng kết nối và học hỏi từ đồng đội.
-------------
+## 🌱 Work Philosophy
+
+1. **Strive for Excellence, Embrace Learning**  
+   I believe in consistently delivering high-quality work, but I also embrace mistakes as valuable lessons. Continuous improvement is at the heart of my approach, and I view every challenge as an opportunity to grow and refine my skills.
+
+2. **Customer-Centric Mindset**  
+   Understanding the needs of those who use my work drives me to create meaningful solutions. My goal is to develop software that genuinely solves problems and enhances user experiences, ensuring that each project aligns with the end-user's needs and expectations.
+
+3. **Collaboration and Communication**  
+   Great work is rarely done in isolation. I value open communication, active collaboration, and the sharing of ideas. I believe that diverse perspectives lead to more innovative solutions, and I am committed to being a proactive, supportive team player.
+
+4. **Embrace Change and Innovation**  
+   In the fast-paced tech world, I welcome change as a source of new possibilities. I stay adaptable and curious, always looking to leverage the latest technologies and approaches to create solutions that are not only efficient but also future-ready.
+
+5. **Purpose-Driven Work**  
+   Beyond code, I aim to contribute to projects that have a positive impact, both in my immediate team and in the broader community. Creating technology with purpose and integrity is what fuels my motivation and commitment every day.
+
+---
+
 ## 🎯 Career Goals
 
 1. **Enhance Technical Expertise**  
@@ -33,12 +46,13 @@ Là một dev, tôi luôn tìm kiếm:
 
 6. **Commit to Lifelong Learning**  
    Technology evolves quickly, and I am devoted to staying updated with the latest trends and advancements, ensuring I bring cutting-edge knowledge and best practices to every project.
+   
    -------------
-## 🚀 Dự án nổi bật
+## 🌟 Notable Projects
 
-1. **Quản lý cửa hàng bán nước**  
-   - **Miêu tả:** Dự án này làm về quản lý sản phẩm, kho, danh mục của một cửa hàng
-   - **Công nghệ:** Công nghệ sử dụng: React, Node.js, MongoDB
+1. **Store Usermanagement**  
+   - **Description:** This project is about product, warehouse, and catalog management of a store
+   - **Framwork:** React, Node.js, MongoDB
    - **Demo:** 🚀 (https://github.com/nQhuy04/CNPMNC-Nhom9-QuanLyChuoiCuaHangBanNuoc)
 ------------
 ## 🌐 Connect with Me
@@ -48,7 +62,7 @@ Là một dev, tôi luôn tìm kiếm:
 
 <a href="https://www.github.com/BeeRain04" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/BeeRain04?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-## 🔧 Các công nghệ và công cụ yêu thích của tôi:
+## 🔧 The technologies and my favorites:
 * 🧠  I'm learning A new framwork ReactJS, NodeJS, Mongodb, ...
 
 <p align="left">
@@ -58,7 +72,6 @@ src="https://img.shields.io/github/followers/BeeRain04?logo=github&style=for-the
 ### Socials
 
 <p align="left"> <a href="https://www.facebook.com/nhathao" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/BeeRain04" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
-### Badges
 
 <b>My GitHub Stats</b>
 
